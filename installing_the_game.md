@@ -13,7 +13,7 @@ This is a guide for setting up Arma 3.
   - Frequently on sale for about [7€](https://isthereanydeal.com/game/armaiii/history/)
   - DLC is optional, but recommended. Specifically [Apex](https://store.steampowered.com/app/395180/Arma_3_Apex/) and [Contact](https://store.steampowered.com/app/1021790/Arma_3_Contact/), as they come with (good) maps and [Laws of War](https://store.steampowered.com/app/571710/Arma_3_Laws_of_War/) and [Marksmen](https://store.steampowered.com/app/332350/Arma_3_Marksmen/) since they're the most frequent causes of DLC Overlay Syndrome[^1].
 - [Teamspeak >3.0](https://teamspeak.com/en/downloads/)
-- [Latest GBPCGH Arma 3 mod preset](./files/gb_step7point1.html)
+- [Latest GBPCGH Arma 3 mod preset](https://drive.google.com/file/d/1LTIV7m4287g2q8-c0zAiAb_QBTlaY94x/view?usp=sharing) (also usually pinned on Discord)
 
 [^1]: DLC Overlay Syndrome - a kind of mental illness caused by using equipment from DLC that you don't own. Causes visual hallucinations (periodic overlay on screen and popups).
 ## Instructions
